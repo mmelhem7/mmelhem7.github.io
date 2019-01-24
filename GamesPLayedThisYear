@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<body>
+<h2 class="backcolor"><b> Games Played This Year </h2></b>
+    <table border="5">
+  <tr>
+    <th id= "tableheader">Date</th>
+    <th id= "tableheader">Team Played</th> 
+    <th id= "tableheader">Won Or Lost</th>
+  </tr>
+  <tr>
+    <td>10/22/18</td>
+    <td>Dallas Mavericks</td> 
+    <td>W</td>
+  </tr>
+  <tr>
+    <td>10/22/18</td>
+    <td>Golden State Warriors</td> 
+    <td>L</td>
+  </tr>
+      <tr>
+        <td>10/20/18</td>
+        <td>Denver Nuggets</td>
+        <td>L</td>
+		
+		</body>
+</html>
