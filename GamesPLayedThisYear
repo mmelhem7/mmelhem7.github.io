@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" type="text/css" href="style.css">
 
 <body>
 <h2 class="backcolor"><b> Games Played This Year </h2></b>
