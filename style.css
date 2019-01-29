@@ -1,0 +1,15 @@
+{background-color: purple;
+		color: green;
+		}
+		.backcolor { background-color: black;
+			}
+	.tableheader { font-style: italic;
+		font-style: bold;
+		background-color: red;
+		}	
+			img { width: 250px;
+			height: 250px;
+			border: 10px;
+			border-color: white;
+			align-content: center;
+			}
